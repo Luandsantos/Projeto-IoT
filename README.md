@@ -30,7 +30,7 @@ Este projeto tem como objetivo monitorar a umidade de um ambiente com o uso de I
 3. Os gráficos no ThingSpeak exibem em tempo real os níveis de umidade monitorados.
 4. Com base nesses dados, é possível avaliar se o ambiente está adequado para o bem-estar dos pets.
 
-## 📸 Capturas de Tela e Links
+## 🔗 Links
 
 - 🔌 Projeto no Wokwi: [Clique aqui](https://wokwi.com/projects/435662750335194113)
 - ☁️ Canal no ThingSpeak: [Clique aqui](https://thingspeak.mathworks.com/channels/3003938)
@@ -47,11 +47,7 @@ Este projeto tem como objetivo monitorar a umidade de um ambiente com o uso de I
 
 > O código está disponível no arquivo `main.ino` com comentários explicativos.
 
-## 📽️ Vídeo de Apresentação
-
-> Adicione o link aqui quando o vídeo estiver pronto.
-
 ## 👥 Integrantes
 
 - Gabriel Afonso dos Santos
-- Luan Salles Pinheiro
+- Luan dos Santos Sales Pinheiro
